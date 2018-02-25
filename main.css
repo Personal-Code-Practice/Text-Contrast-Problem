@@ -13,7 +13,7 @@
     ),
     url('https://tf-assets-prod.s3.amazonaws.com/tf-curric/FEWD-001/light-background.jpg');
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: 500px 360px;
 }
 
 .opacity-layer {
